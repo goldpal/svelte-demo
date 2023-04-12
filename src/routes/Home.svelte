@@ -1,15 +1,15 @@
 <svelte:head>
-	<title>Svelte Demo template</title>
+	<title> Svelte Demo template </title>
 </svelte:head>
 
 <h1>Great success!</h1>
 
 <figure>
 	<img alt="Borat" src="/assets/great-success.png">
-	<figcaption>HIGH FIVE!</figcaption>
+	<figcaption> HIGH FIVE! </figcaption>
 </figure>
 
-<p><strong>Try editing this file (routes/index.html) to test hot module reloading.</strong></p>
+<p><strong> Try editing this file (routes/index.html) to test hot module reloading. </strong></p>
 
 <style>
 	h1, figure, p {
